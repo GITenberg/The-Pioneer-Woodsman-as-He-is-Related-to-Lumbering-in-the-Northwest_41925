@@ -1,0 +1,26 @@
+_repo: The-Pioneer-Woodsman-as-He-is-Related-to-Lumbering-in-the-Northwest_41925
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41925-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Warren, George Henry
+    gutenberg_agent_id: '41431'
+    url: http://www.gutenberg.org/2009/agents/41431
+description: ''
+gutenberg_issued: '2013-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41925'
+  lccn: '14012595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping'
+- !lcsh 'Lumbering -- Northwestern States'
+- !lcc 'TS'
+title: The Pioneer Woodsman as He Is Related to Lumbering in the Northwest
+url: http://www.gutenberg.org/ebooks/41925
