@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41431'
     url: http://www.gutenberg.org/2009/agents/41431
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41925#The-Pioneer-Woodsman-as-He-is-Related-to-Lumbering-in-the-Northwest
 gutenberg_issued: '2013-01-26'
 gutenberg_type: Text
 identifiers:
